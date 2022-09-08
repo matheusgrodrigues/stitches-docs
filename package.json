@@ -1,0 +1,10 @@
+{
+  "name": "stitches-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matheusgrodrigues/stitches-docs.git",
+  "license": "MIT",
+  "dependencies": {
+    "@stitches/react": "^1.2.8"
+  }
+}
